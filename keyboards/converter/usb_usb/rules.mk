@@ -23,4 +23,4 @@ SRC += custom_matrix.cpp
 
 DEFAULT_FOLDER = converter/usb_usb/hasu
 
-LAYOUTS = fullsize_ansi fullsize_iso
+LAYOUTS = fullsize_iso

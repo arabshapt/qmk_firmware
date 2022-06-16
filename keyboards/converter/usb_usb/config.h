@@ -29,8 +29,8 @@ along with this program.  If not, see <http://www.gnu.org/licenses/>.
 /* size of virtual matrix */
 #define MATRIX_ROWS 16
 #define MATRIX_COLS 16
-#define COMBO_COUNT 4
-#define TAPPING_TERM 175
+#define COMBO_COUNT 6
+// #define TAPPING_TERM 175
 /*
  * Feature disable options
  *  These options are also useful to firmware size reduction.
