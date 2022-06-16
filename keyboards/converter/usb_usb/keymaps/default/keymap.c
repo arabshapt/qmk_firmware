@@ -47,7 +47,7 @@ combo_t key_combos[COMBO_COUNT] = {
     [JK_ENT] = COMBO(jk_combo, KC_ENT),
     [KL_BSPC] = COMBO(kl_combo, KC_BSPC),
     [QW_SFT] = COMBO(qw_combo, KC_LSFT),
-    [SF_LCTL] = COMBO(sf_combo, KC_LCTL),
+    [SF_LCTL] = COMBO(sf_combo, LT(1,KC_LCTL)),
     [JL_LCTL] = COMBO(jl_combo, KC_LCTL)
     //   [SD_LAYER] = COMBO(sd_combo, MO(_LAYER)),
 };
